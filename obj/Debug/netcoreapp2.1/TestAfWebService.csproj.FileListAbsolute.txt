@@ -1,0 +1,17 @@
+C:\Source\RestCostumerService\TestAfWebService\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Source\RestCostumerService\TestAfWebService\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Source\RestCostumerService\TestAfWebService\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Source\RestCostumerService\TestAfWebService\bin\Debug\netcoreapp2.1\TestAfWebService.deps.json
+C:\Source\RestCostumerService\TestAfWebService\bin\Debug\netcoreapp2.1\TestAfWebService.runtimeconfig.json
+C:\Source\RestCostumerService\TestAfWebService\bin\Debug\netcoreapp2.1\TestAfWebService.runtimeconfig.dev.json
+C:\Source\RestCostumerService\TestAfWebService\bin\Debug\netcoreapp2.1\TestAfWebService.dll
+C:\Source\RestCostumerService\TestAfWebService\bin\Debug\netcoreapp2.1\TestAfWebService.pdb
+C:\Source\RestCostumerService\TestAfWebService\bin\Debug\netcoreapp2.1\RestCostumerService.dll
+C:\Source\RestCostumerService\TestAfWebService\bin\Debug\netcoreapp2.1\RestCostumerService.pdb
+C:\Source\RestCostumerService\TestAfWebService\obj\Debug\netcoreapp2.1\TestAfWebService.csprojAssemblyReference.cache
+C:\Source\RestCostumerService\TestAfWebService\obj\Debug\netcoreapp2.1\TestAfWebService.csproj.CoreCompileInputs.cache
+C:\Source\RestCostumerService\TestAfWebService\obj\Debug\netcoreapp2.1\TestAfWebService.AssemblyInfoInputs.cache
+C:\Source\RestCostumerService\TestAfWebService\obj\Debug\netcoreapp2.1\TestAfWebService.AssemblyInfo.cs
+C:\Source\RestCostumerService\TestAfWebService\obj\Debug\netcoreapp2.1\TestAfWebService.csproj.CopyComplete
+C:\Source\RestCostumerService\TestAfWebService\obj\Debug\netcoreapp2.1\TestAfWebService.dll
+C:\Source\RestCostumerService\TestAfWebService\obj\Debug\netcoreapp2.1\TestAfWebService.pdb
